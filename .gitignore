@@ -1,0 +1,167 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Simple Search Engine/*
+!/Simple Search Engine/task/
+/Simple Search Engine/task/*
+!/Simple Search Engine/task/src/
+!/Simple Search Engine/task/build.gradle
+!/Simple Search Engine/task/build.gradle.kts
+
+# Project exclude paths
+/Topics/Boolean and logical operations/Theory/out/
+/Topics/Boolean and logical operations/Theory/out/production/classes/
+/Topics/Characters/Comparing numbers and characters/out/
+/Topics/Characters/Comparing numbers and characters/out/production/classes/
+/Topics/Characters/Digits or not/out/
+/Topics/Characters/Digits or not/out/production/classes/
+/Topics/Characters/Previous character/out/
+/Topics/Characters/Previous character/out/production/classes/
+/Topics/Characters/Theory/out/
+/Topics/Characters/Theory/out/production/classes/
+/Topics/Constructors/Init usage/out/
+/Topics/Constructors/Init usage/out/production/classes/
+/Topics/Constructors/Pets/out/
+/Topics/Constructors/Pets/out/production/classes/
+/Topics/Constructors/Theory/out/
+/Topics/Constructors/Theory/out/production/classes/
+/Topics/Declaring functions/Return type/out/
+/Topics/Declaring functions/Return type/out/production/classes/
+/Topics/Declaring functions/The square of a number/out/
+/Topics/Declaring functions/The square of a number/out/production/classes/
+/Topics/Declaring functions/Theory/out/
+/Topics/Declaring functions/Theory/out/production/classes/
+/Topics/Default arguments/Concatenate 3 strings with separator/out/
+/Topics/Default arguments/Concatenate 3 strings with separator/out/production/classes/
+/Topics/Default arguments/Determine the result/out/
+/Topics/Default arguments/Determine the result/out/production/classes/
+/Topics/Default arguments/Theory/out/
+/Topics/Default arguments/Theory/out/production/classes/
+/Topics/Enum/Danger level/out/
+/Topics/Enum/Danger level/out/production/classes/
+/Topics/Errors in programs/What's wrong/out/
+/Topics/Errors in programs/What's wrong/out/production/classes/
+/Topics/For loop and lists/For loops task/out/
+/Topics/For loop and lists/For loops task/out/production/classes/
+/Topics/For loop and lists/Number in a set/out/
+/Topics/For loop and lists/Number in a set/out/production/classes/
+/Topics/For loop and lists/Two numbers in a row/out/
+/Topics/For loop and lists/Two numbers in a row/out/production/classes/
+/Topics/For loop and ranges/Define a for-loop/out/
+/Topics/For loop and ranges/Define a for-loop/out/production/classes/
+/Topics/For loop and ranges/Fizz Buzz/out/
+/Topics/For loop and ranges/Fizz Buzz/out/production/classes/
+/Topics/For loop and ranges/The maximum pairwise product/out/
+/Topics/For loop and ranges/The maximum pairwise product/out/production/classes/
+/Topics/For loop and ranges/The minimum value of N numbers/out/
+/Topics/For loop and ranges/The minimum value of N numbers/out/production/classes/
+/Topics/For loop and ranges/The roots of equation/out/
+/Topics/For loop and ranges/The roots of equation/out/production/classes/
+/Topics/Getting substrings/Case insensitive/out/
+/Topics/Getting substrings/Case insensitive/out/production/classes/
+/Topics/If expression/Knights/out/
+/Topics/If expression/Knights/out/production/classes/
+/Topics/If expression/Queens/out/
+/Topics/If expression/Queens/out/production/classes/
+/Topics/If expression/The max of three numbers/out/
+/Topics/If expression/The max of three numbers/out/production/classes/
+/Topics/If expression/The max of two numbers without else-branch/out/
+/Topics/If expression/The max of two numbers without else-branch/out/production/classes/
+/Topics/If expression/Theory/out/
+/Topics/If expression/Theory/out/production/classes/
+/Topics/If expression/Triangle/out/
+/Topics/If expression/Triangle/out/production/classes/
+/Topics/Integers in action/The last digit of a number/out/
+/Topics/Integers in action/The last digit of a number/out/production/classes/
+/Topics/Integers in action/Theory/out/
+/Topics/Integers in action/Theory/out/production/classes/
+/Topics/Integers in action/Unsigned integers/out/
+/Topics/Integers in action/Unsigned integers/out/production/classes/
+/Topics/Introduction to MutableList/Initializing a mutable list of characters/out/
+/Topics/Introduction to MutableList/Initializing a mutable list of characters/out/production/classes/
+/Topics/Introduction to MutableList/Initializing a mutable list of integers/out/
+/Topics/Introduction to MutableList/Initializing a mutable list of integers/out/production/classes/
+/Topics/Introduction to MutableList/Right ways to create mutable lists/out/
+/Topics/Introduction to MutableList/Right ways to create mutable lists/out/production/classes/
+/Topics/Introduction to MutableList/Swap/out/
+/Topics/Introduction to MutableList/Swap/out/production/classes/
+/Topics/Introduction to MutableList/Theory/out/
+/Topics/Introduction to MutableList/Theory/out/production/classes/
+/Topics/Jumps and returns/Beyond the word/out/
+/Topics/Jumps and returns/Beyond the word/out/production/classes/
+/Topics/Linear search/How many repetitions/out/
+/Topics/Linear search/How many repetitions/out/production/classes/
+/Topics/Linear search/Searching for an array in an array/out/
+/Topics/Linear search/Searching for an array in an array/out/production/classes/
+/Topics/Member functions/Application as a class/out/
+/Topics/Member functions/Application as a class/out/production/classes/
+/Topics/Nested and inner classes/Busy internship/out/
+/Topics/Nested and inner classes/Busy internship/out/production/classes/
+/Topics/Nested and inner classes/Heroes and villains/out/
+/Topics/Nested and inner classes/Heroes and villains/out/production/classes/
+/Topics/Nested and inner classes/Theory/out/
+/Topics/Nested and inner classes/Theory/out/production/classes/
+/Topics/Object declarations/Library/out/
+/Topics/Object declarations/Library/out/production/classes/
+/Topics/Processing strings/Double characters/out/
+/Topics/Processing strings/Double characters/out/production/classes/
+/Topics/Processing strings/Parse url/out/
+/Topics/Processing strings/Parse url/out/production/classes/
+/Topics/Processing strings/The percentage of G and C characters/out/
+/Topics/Processing strings/The percentage of G and C characters/out/production/classes/
+/Topics/Ranges/At least one/out/
+/Topics/Ranges/At least one/out/production/classes/
+/Topics/Ranges/Not in range/out/
+/Topics/Ranges/Not in range/out/production/classes/
+/Topics/Ranges/Within both ranges/out/
+/Topics/Ranges/Within both ranges/out/production/classes/
+/Topics/Relational operators/Check the sum/out/
+/Topics/Relational operators/Check the sum/out/production/classes/
+/Topics/Relational operators/Exactly one parameter is positive/out/
+/Topics/Relational operators/Exactly one parameter is positive/out/production/classes/
+/Topics/Repeating blocks/Counting positive numbers/out/
+/Topics/Repeating blocks/Counting positive numbers/out/production/classes/
+/Topics/Repeating blocks/Maximum element divisible by 4/out/
+/Topics/Repeating blocks/Maximum element divisible by 4/out/production/classes/
+/Topics/Repeating blocks/Print a string exactly ten times/out/
+/Topics/Repeating blocks/Print a string exactly ten times/out/production/classes/
+/Topics/Standard output/From 0 to 9/out/
+/Topics/Standard output/From 0 to 9/out/production/classes/
+/Topics/Standard output/Print a triangle/out/
+/Topics/Standard output/Print a triangle/out/production/classes/
+/Topics/Standard output/Theory/out/
+/Topics/Standard output/Theory/out/production/classes/
+/Topics/String arrays/Guard On The Gate/out/
+/Topics/String arrays/Guard On The Gate/out/production/classes/
+/Topics/When expression/Direction/out/
+/Topics/When expression/Direction/out/production/classes/
+/Topics/When expression/Floor-space of the room/out/
+/Topics/When expression/Floor-space of the room/out/production/classes/
+/Topics/When expression/Strings as objects/out/
+/Topics/When expression/Strings as objects/out/production/classes/
+/Topics/When expression/The army of units/out/
+/Topics/When expression/The army of units/out/production/classes/
+/Topics/While loops/The length of the sequence/out/
+/Topics/While loops/The length of the sequence/out/production/classes/
+/Topics/Work with MutableLists/Adding lists/out/
+/Topics/Work with MutableLists/Adding lists/out/production/classes/
+/Topics/Work with MutableLists/Playing with numbers/out/
+/Topics/Work with MutableLists/Playing with numbers/out/production/classes/
+/Topics/Working with strings/Name Card/out/
+/Topics/Working with strings/Name Card/out/production/classes/
+/Topics/Working with strings/The information about a person/out/
+/Topics/Working with strings/The information about a person/out/production/classes/
+/Topics/Working with strings/The same line/out/
+/Topics/Working with strings/The same line/out/production/classes/
